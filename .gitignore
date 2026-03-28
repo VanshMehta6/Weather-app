@@ -1,0 +1,59 @@
+# OS
+.DS_Store
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Metro
+.metro-health-check*
+
+# Expo (future-proof)
+.expo/
+.expo-shared/
+
+# Editor
+.vscode/
+
+# Android
+android/build/
+android/app/build/
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx/
+*.keystore
+!debug.keystore
+.kotlin/
+
+# iOS / Xcode
+ios/build/
+DerivedData
+xcuserdata
+*.xcuserstate
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# CocoaPods
+**/Pods/
+vendor/bundle/
+
+# Fastlane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+
+# Bundle
+*.jsbundle
+
+# Testing
+coverage/
