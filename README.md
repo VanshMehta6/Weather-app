@@ -21,7 +21,7 @@ react-native-chart-kit (for data visualization)
 
 Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/VanshMehta6/Weather-app.git
 cd weather-app
 
 Install dependencies:
